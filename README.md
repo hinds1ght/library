@@ -27,3 +27,8 @@ This is a basic web app for managing a list of books using plain JavaScript. It'
 2. Enter a book title and click **Submit**.
 3. The book will appear in the book grid.
 4. Click **"Delete"** to remove a book from the library.
+
+---
+
+## Live Demo
+View it live: [https://hinds1ght.github.io/library/]
